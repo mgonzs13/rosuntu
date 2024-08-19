@@ -38,13 +38,13 @@ apt update && apt install curl -y
 curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -o /usr/share/keyrings/ros-archive-keyring.gpg
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(. /etc/os-release && echo $UBUNTU_CODENAME) main" | tee /etc/apt/sources.list.d/ros2.list > /dev/null
 apt update
-apt install ros-humble-desktop ros-dev-tools ros-humble-gazebo-ros -y
+apt install ros-humble-desktop ros-dev-tools ros-humble-ros-gz -y
 
 # install packages
-echo -e "${YELLOW}========================${RESET}"
-echo -e "${YELLOW} Installing GNOME Tools ${RESET}"
-echo -e "${YELLOW}========================${RESET}"
-apt install gnome-control-center -y
+echo -e "${YELLOW}================================${RESET}"
+echo -e "${YELLOW} Installing GNOME Tools and Git ${RESET}"
+echo -e "${YELLOW}================================${RESET}"
+apt install gnome-control-center git -y
 
 echo -e "${CYAN}========================${RESET}"
 echo -e "${CYAN}  Installing VSCode     ${RESET}"
