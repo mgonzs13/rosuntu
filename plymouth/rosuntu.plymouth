@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=ROS Theme
+Description=Plymouth theme with the ROS logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/rosuntu
+ScriptFile=/usr/share/plymouth/themes/rosuntu/rosuntu.script

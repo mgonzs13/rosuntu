@@ -1,0 +1,15 @@
+[org.gnome.desktop.background]
+picture-uri = 'file:///usr/share/backgrounds/rosuntu/wallpaper_1.png'
+picture-uri-dark = 'file:///usr/share/backgrounds/rosuntu/wallpaper_1.png'
+
+[org.gnome.desktop.screensaver]
+picture-uri = 'file:///usr/share/backgrounds/rosuntu/wallpaper_1.png'
+
+[org.gnome.shell]
+favorite-apps = ['ubuntu-desktop-installer_ubuntu-desktop-installer.desktop', 'google-chrome.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Terminal.desktop', 'code.desktop', 'org.gnome.gedit.desktop', 'gnome-control-center.desktop']
+
+[org.gnome.login-screen]
+logo='/usr/share/plymouth/ROSuntu_logo-small.png'
+
+[org.gnome.desktop.interface:ubuntu]
+gtk-theme='Yaru-dark'

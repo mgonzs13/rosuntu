@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>ROSuntu Wallpaper 1</name>
+    <filename>/usr/share/backgrounds/rosuntu/wallpaper_1.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>ROSuntu Wallpaper 2</name>
+    <filename>/usr/share/backgrounds/rosuntu/wallpaper_2.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>ROSuntu Wallpaper 3</name>
+    <filename>/usr/share/backgrounds/rosuntu/wallpaper_3.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>ROSuntu Wallpaper 4</name>
+    <filename>/usr/share/backgrounds/rosuntu/wallpaper_4.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>ROSuntu Wallpaper 5</name>
+    <filename>/usr/share/backgrounds/rosuntu/wallpaper_5.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>ROSuntu Wallpaper 6</name>
+    <filename>/usr/share/backgrounds/rosuntu/wallpaper_6.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
