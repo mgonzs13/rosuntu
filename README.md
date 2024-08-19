@@ -43,6 +43,8 @@ The installation of ROSuntu is similar to a regular Ubuntu. Thus, you will have 
 Take a look to the custom slideshow of ROSuntu that you will see during installation.
 
 <div align="center">
+  <img src="./images/install.png" style="width: 100%;">
+
   <img src="./images/slideshow_1.PNG" style="width: 49%;">
   <img src="./images/slideshow_2.PNG" style="width: 49%;">
   <img src="./images/slideshow_3.PNG" style="width: 49%;">
