@@ -30,7 +30,7 @@ This is the repository of ROSuntu, a Ubuntu-based distribution for ROS 2. ROSunt
 </div>
 
 <div align="center">
-  <p style="margin-top: 20px;"><b>MD5</b>: <code>790d26422415e0fb8032db174f493678</code></p>
+  <p style="margin-top: 20px;"><b>MD5</b>: <code>499814ed249385b5511eeb5054b86928</code></p>
 </div>
 
 ## Install ROSuntu
