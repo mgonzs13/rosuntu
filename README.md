@@ -13,7 +13,7 @@
 
 ## About ROSuntu
 
-This is the repository of ROSuntu, a Ubuntu-based distribution for ROS 2. ROSuntu is a distro of Ubuntu, which makes it easy enough for new users to go into it. Still, we gave it the customization for ROS 2 developers, including installing ROS 2, Gazebo, VSCode, and more. This repository provides the materials and the guide to creating the ISO for the ROSuntu distro.
+This is the repository of ROSuntu, a Ubuntu-based distribution for ROS 2. ROSuntu is a distro of Ubuntu, which makes it easy enough for new users to go into it. Still, we gave it the customization for ROS 2 developers, including installing ROS 2, Gazebo, VSCode, Git, and Docker. This repository provides the materials and the guide to creating the ISO for the ROSuntu distro.
 
 <div align="center">
   <img src="./images/plymouth.gif" style="width: 100%;">
@@ -30,7 +30,7 @@ This is the repository of ROSuntu, a Ubuntu-based distribution for ROS 2. ROSunt
 </div>
 
 <div align="center">
-  <p style="margin-top: 20px;"><b>MD5</b>: <code>499814ed249385b5511eeb5054b86928</code></p>
+  <p style="margin-top: 20px;"><b>MD5</b>: <code>a843bd9daede12537f12cf004bdbfb9f</code></p>
 </div>
 
 ## Install ROSuntu
