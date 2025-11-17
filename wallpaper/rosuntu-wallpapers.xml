@@ -41,12 +41,4 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-  <wallpaper>
-    <name>ROSuntu Wallpaper 6</name>
-    <filename>/usr/share/backgrounds/rosuntu/wallpaper_6.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
 </wallpapers>
