@@ -21,7 +21,7 @@ This is the repository of ROSuntu, a Ubuntu-based distribution for ROS 2. ROSunt
 ## Download ROSuntu
 
 <div align="center">
-  <a href="https://drive.usercontent.google.com/download?id=1XS4qXs0BpujrQ3sTghdMVy_AT-oQkPYo&export=download&authuser=0" download>
+  <a href="https://drive.usercontent.google.com/download?id=1vqZW5RaxMQk9Ml3GYro20U-w7QfGJPbI&export=download&authuser=0" download>
     <img src="./images/download_ROSuntu.png" style="width: 400px;">
   </a>
 </div>
