@@ -71,6 +71,8 @@ rm -f gazebo-keyring.gpg
 sudo apt update
 sudo apt install -y ros-jazzy-desktop ros-jazzy-ros-gz gz-harmonic
 
+sudo apt update && sudo apt install -y ros-dev-tools
+
 echo
 echo -e "${RED}========================================${RESET}"
 echo -e "${RED}  Setting Login Screen${RESET}"
