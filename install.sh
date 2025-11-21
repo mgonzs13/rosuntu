@@ -69,7 +69,7 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/pkgs-
 rm -f gazebo-keyring.gpg
 
 sudo apt update
-sudo apt install -y ros-jazzy-desktop ros-jazzy-ros-gz gz-harmonic
+sudo apt install -y ros-jazzy-desktop ros-jazzy-ros-gz gz-harmonic ros-dev-tools
 
 echo
 echo -e "${RED}========================================${RESET}"
